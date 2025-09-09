@@ -6,7 +6,7 @@ A simple Python console application that fetches a random cocktail recipe from T
 ## Features
 
 - Fetches a random cocktail recipe from the internet
-- Saves the recipe as a real JSON file (named after your input)
+- Saves the recipe as a JSON file (named after your input)
 - Prints the recipe details to the console
 - Lets you fetch another cocktail or exit
 - Handles API and data errors gracefully
